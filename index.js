@@ -1,3 +1,3 @@
-fuction kucing(string) {return string === 'kucing'}
+fuction lctayu218(string) {return string === 'lctayu218'}
 
-module.exports = kucing 
+module.exports = lctayu218 
