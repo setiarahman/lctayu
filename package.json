@@ -1,24 +1,24 @@
 {
-  "name": "kucing-hitam",
+  "name": "lctayu",
   "version": "1.0.0",
-  "description": "kucing kecil",
+  "description": "lctayu218",
   "main": "index.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jalu017/kucing-hitam.git"
+    "url": "git+https://github.com/setiarahman/lctayu.git"
   },
   "keywords": [
-    "kucing"
+    "lctayu"
   ],
-  "author": "jalu017",
+  "author": "setiarahman",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jalu017/kucing-hitam/issues"
+    "url": "https://github.com/setiarahman/lctayu/issues"
   },
-  "homepage": "https://github.com/jalu017/kucing-hitam#readme",
+  "homepage": "https://github.com/setiarahman/lctayu#readme",
   "dependencies": {
     "express": "^4.18.2",
     "lodash": "^4.17.21",
